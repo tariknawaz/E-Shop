@@ -1,0 +1,68 @@
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\bin\Debug\EShop.exe.config
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.exe
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.pdb
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\bin\Debug\EShop.exe
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\bin\Debug\EShop.pdb
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.csprojResolveAssemblyReference.cache
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.AdminHome.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Customer.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Inventory.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Login.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.mypro.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.OrderList.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Properties.Resources.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Register.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Selectedd.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.spcart.resources
+C:\Users\Rehnuma\Desktop\EShopProject__\EShopProject\EShop\obj\Debug\EShop.csproj.GenerateResource.Cache
+E:\EShopProject__\EShopProject\EShop\bin\Debug\EShop.exe.config
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.exe
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.pdb
+E:\EShopProject__\EShopProject\EShop\bin\Debug\EShop.exe
+E:\EShopProject__\EShopProject\EShop\bin\Debug\EShop.pdb
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.csprojResolveAssemblyReference.cache
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.AdminHome.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Customer.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Inventory.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Login.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.mypro.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.OrderList.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Properties.Resources.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Register.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.Selectedd.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.spcart.resources
+E:\EShopProject__\EShopProject\EShop\obj\Debug\EShop.csproj.GenerateResource.Cache
+E:\EShopProject\EShop\bin\Debug\EShop.exe.config
+E:\EShopProject\EShop\obj\Debug\EShop.exe
+E:\EShopProject\EShop\obj\Debug\EShop.pdb
+E:\EShopProject\EShop\bin\Debug\EShop.exe
+E:\EShopProject\EShop\bin\Debug\EShop.pdb
+E:\EShopProject\EShop\obj\Debug\EShop.csprojResolveAssemblyReference.cache
+E:\EShopProject\EShop\obj\Debug\EShop.AdminHome.resources
+E:\EShopProject\EShop\obj\Debug\EShop.Customer.resources
+E:\EShopProject\EShop\obj\Debug\EShop.Inventory.resources
+E:\EShopProject\EShop\obj\Debug\EShop.Login.resources
+E:\EShopProject\EShop\obj\Debug\EShop.mypro.resources
+E:\EShopProject\EShop\obj\Debug\EShop.OrderList.resources
+E:\EShopProject\EShop\obj\Debug\EShop.Properties.Resources.resources
+E:\EShopProject\EShop\obj\Debug\EShop.Register.resources
+E:\EShopProject\EShop\obj\Debug\EShop.Selectedd.resources
+E:\EShopProject\EShop\obj\Debug\EShop.spcart.resources
+E:\EShopProject\EShop\obj\Debug\EShop.csproj.GenerateResource.Cache
+E:\Fall 17\EShopProject\EShop\bin\Debug\EShop.exe.config
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.exe
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.pdb
+E:\Fall 17\EShopProject\EShop\bin\Debug\EShop.exe
+E:\Fall 17\EShopProject\EShop\bin\Debug\EShop.pdb
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.csprojResolveAssemblyReference.cache
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.AdminHome.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.Customer.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.Inventory.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.Login.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.mypro.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.OrderList.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.Properties.Resources.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.Register.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.Selectedd.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.spcart.resources
+E:\Fall 17\EShopProject\EShop\obj\Debug\EShop.csproj.GenerateResource.Cache
